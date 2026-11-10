@@ -1,0 +1,5 @@
+site_name: Linux Memory Checks
+nav:
+  - Home: index.md
+  - Check Free Memory: check-memory.md
+  - Add Swap: add-swap.md
